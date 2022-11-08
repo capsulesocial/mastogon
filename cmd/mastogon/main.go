@@ -1,6 +1,6 @@
-/*
-Copyright © Capsule Social, Inc.
-*/
+/* SPDX-FileCopyrightText: © Capsule Social, Inc. <nadim@capsule.social>
+ * SPDX-License-Identifier: AGPL-3.0-only */
+
 package cmd
 
 import (
